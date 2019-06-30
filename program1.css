@@ -1,0 +1,141 @@
+<head> 
+<style> 
+
+span.prep{
+	  font-weight: bold;
+}
+
+
+ body{ 
+  background-color: #FFCC00;
+  background-size: 1024px, auto;
+}
+
+//menu 
+
+.tableBar {
+	border:none;	
+}
+
+th.tableBar{
+	background-color: #003366;
+	border:none;
+}
+
+td.tableBar{
+	border: none;
+}
+
+table.tableBar{
+	display: inline-block;
+	border: none;
+}
+
+
+
+div.headTop {
+	background-color: #F0F0F0;
+  	color: #A4A400;
+	text-align: center;
+	font-family: "Georgia", Garamond, serif;
+	border-width: thin;
+  	margin: 5px;
+  	padding: 5px;
+}
+
+
+table, td, th {
+	border-collapse: collapse;
+	border: 2px solid #FFFFFF;
+	color: #F0F0F0;
+	padding: 5px;
+	margin-top: 20px; 
+	background-size: auto;
+}
+
+
+td{
+	background-color: #CC9933;
+	color: #FFFFFF;	
+}
+
+th {
+  background-color: #003366;
+  color: #FFFFFF;
+  
+}
+
+
+.table1 {
+  background-color: #FFFFFF;
+  color: #A4A400;
+}
+
+/*div.table1 {
+	border: 5px;
+	column-span: "1" style: background-color: #003366;
+	//background-color: #CC9933 ;
+	border-collapse: "collapse";
+}*/
+
+
+.center {
+  text-align: center;
+  border: none;
+  box-sizing: 100%;
+
+}
+
+.head2 {
+	color: #00b300;
+	text-decoration: underline;
+}
+
+div.headTop2 {
+	background-color: #F0F0F0;
+  	color: #A4A400;
+	font-family: "Georgia", Garamond, serif;
+	text-decoration: underline;
+	border-width: thin;
+  	margin-top: 2px;
+  	padding-top: 1px;
+  
+}
+  
+.table3{
+  border-collapse: collapse;
+  margin: 0px auto;
+  color: #FFFFFF;
+  text-align: center;
+  border: none;
+  width:100%; 
+
+}
+
+th.table3{
+	background-color: #008000;
+	border: none;
+}
+
+td.table3{
+	background-color: #cc6600;
+	border: none;
+}
+
+.center1 {
+  text-align: center;
+  font-weight: bold;
+  border: none;
+  box-sizing: 100%;
+
+}
+
+
+span.thick {
+  font-weight: bold;
+}
+
+
+}
+</style>
+</head>
